@@ -32,7 +32,7 @@ npm i -D stylelint @isaac.frontend/stylelint-config-scss
 
 ### PHPStorm
 
-1. Add a new file watcher for watch changes on scss files.
+> Add a new file watcher for watch changes on scss files.
 
 <span style="color: #696969;">preferences</span> ⇢ <span style="color: #696969;">Tools</span> ⇢ <span style="color: #696969;">File Watchers</span>
 
