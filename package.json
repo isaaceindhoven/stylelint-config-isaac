@@ -1,6 +1,6 @@
 {
   "name": "@isaac.frontend/stylelint-config-scss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Isaac base SCSS Stylelint config, following our styleguide",
   "main": "index.js",
   "homepage": "https://www.npmjs.com/package/@isaac.frontend/stylelint-config-scss",
