@@ -1,0 +1,58 @@
+{
+  "name": "@isaac.frontend/stylelint-config-scss",
+  "version": "1.0.0",
+  "description": "Isaac base SCSS Stylelint config, following our styleguide",
+  "main": "index.js",
+  "homepage": "https://www.npmjs.com/package/@isaac.frontend/stylelint-config-scss",
+  "bugs": {
+    "url": "https://github.com/isaaceindhoven/stylelint-config-scss/issues"
+  },
+  "scripts": {
+    "release": "release-it"
+  },
+  "files": [
+    "index.js"
+  ],
+  "author": {
+    "name": "ISAAC BV",
+    "url": "https://www.isaac.nl"
+  },
+  "engines": {
+    "node": ">= 8"
+  },
+  "contributors": [
+    {
+      "name": "Koen Peters",
+      "email": "koen.peters@isaac.nl"
+    },
+    {
+      "name": "Ferry Brouwer",
+      "email": "ferry.brouwer@isaac.nl"
+    }
+  ],
+  "keywords": [
+    "stylelint",
+    "stylelint-config",
+    "stylelint-scss",
+    "scss",
+    "sass",
+    "isaac",
+    "styleguide",
+    "lint",
+    "guidelines"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "stylelint-config-sass-guidelines": "^5.0.0"
+  },
+  "peerDependencies": {
+    "stylelint": "^9.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isaaceindhoven/stylelint-config-scss"
+  },
+  "devDependencies": {
+    "release-it": "^7.3.0"
+  }
+}
