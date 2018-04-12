@@ -1,7 +1,7 @@
 # Stylelint configuration for SCSS
 
 ![node](https://img.shields.io/node/v/@isaac.frontend/stylelint-config-scss.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/isaaceindhoven/style-config-scss.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/isaaceindhoven/stylelint-config-scss.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/isaaceindhoven/stylelint-config-scss.svg)
 ![GitHub tag](https://img.shields.io/github/tag/isaaceindhoven/stylelint-config-scss.svg)
 
