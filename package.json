@@ -1,17 +1,18 @@
 {
   "name": "@isaac.frontend/stylelint-config-scss",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Isaac base SCSS Stylelint config, following our styleguide",
   "main": "index.js",
-  "homepage":
-    "https://www.npmjs.com/package/@isaac.frontend/stylelint-config-scss",
+  "homepage": "https://www.npmjs.com/package/@isaac.frontend/stylelint-config-scss",
   "bugs": {
     "url": "https://github.com/isaaceindhoven/stylelint-config-scss/issues"
   },
   "scripts": {
     "release": "release-it"
   },
-  "files": ["index.js"],
+  "files": [
+    "index.js"
+  ],
   "author": {
     "name": "ISAAC BV",
     "url": "https://www.isaac.nl"
