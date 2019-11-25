@@ -43,16 +43,16 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "stylelint-config-sass-guidelines": "^5.0.0"
+    "stylelint-config-sass-guidelines": "^6.1.0"
   },
   "peerDependencies": {
-    "stylelint": "^9.0.0"
+    "stylelint": "^10.0.1"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/isaaceindhoven/stylelint-config-scss"
   },
   "devDependencies": {
-    "release-it": "^7.3.0"
+    "release-it": "^12.4.3"
   }
 }
